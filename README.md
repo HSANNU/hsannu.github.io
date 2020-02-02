@@ -1,3 +1,3 @@
-# hsannu.github.io
+# High School Attached to Northeast Normal University
 
-High School Attached to Northeast Normal University Official Repository
+Changes commited on 2 Feb, 2020.
